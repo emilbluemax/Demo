@@ -14,6 +14,7 @@ int fact(int n)
 int main()
 {
     int n;
+    cout<<"olaaaaaa Karan here";
     cin>>n;
     cout<<"factorial of n : "<<fact(n)<<endl;
 }
